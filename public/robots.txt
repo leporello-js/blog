@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://blog.leporello.tech/sitemap.xml

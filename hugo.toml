@@ -1,0 +1,8 @@
+baseURL = 'https://blog.leporello.tech/'
+languageCode = 'en-us'
+title = 'Leporello.js blog'
+
+theme = 'hugo-bearblog'
+enableRobotsTXT = true
+
+googleAnalytics = 'G-EH0VXHQKCN'

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leporello.js blog</title>
+    <link>https://blog.leporello.tech/</link>
+    <description>Recent content on Leporello.js blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 01:33:01 +0300</lastBuildDate><atom:link href="https://blog.leporello.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://blog.leporello.tech/blog/test/</link>
+      <pubDate>Fri, 06 Oct 2023 01:33:01 +0300</pubDate>
+      
+      <guid>https://blog.leporello.tech/blog/test/</guid>
+      <description>Hello, world!</description>
+    </item>
+    
+  </channel>
+</rss>
